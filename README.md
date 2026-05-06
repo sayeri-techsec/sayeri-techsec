@@ -30,7 +30,7 @@ I help product teams ship secure code — from API design through CI/CD, with a 
 #### 📫 Connect
 
 - LinkedIn → [sayeribiswas96](https://www.linkedin.com/in/sayeribiswas96)
-- Email → sayeribiswas.abc@gmail.com
+- Email → sayeri.techsec@gmail.com
 
 ---
 
