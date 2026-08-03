@@ -1,37 +1,72 @@
-### Hi, I'm Sayeri 👋
+Hi, I'm Sayeri 👋
+AI Engineer | Generative AI | Agentic AI | Building Intelligent AI Systems
+I build production-ready AI applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
+My focus is on designing AI systems that can reason, retrieve knowledge, use tools, and automate complex workflows.
 
-**Application Security Engineer** based in Kolkata, India.
+🚀 What I'm Building
+🤖 AI Agents
+🧠 Agentic AI Systems
+✨ Generative AI Applications
+📚 Retrieval-Augmented Generation (RAG)
+🔄 Multi-Agent Workflows
+🔗 Model Context Protocol (MCP)
+💬 Conversational AI
+⚡ AI Workflow Automation
+🧩 LLM Integrations
+🐍 Python-based AI Services
 
-I help product teams ship secure code — from API design through CI/CD, with a focus on AI/LLM features moving into production. Currently scaling AppSec at Infosys.
+🛠 Tech Stack
+AI & LLMs
+OpenAI
+Claude
+Gemini
+Llama
+Mistral
+Hugging Face
 
----
+AI Frameworks
+LangChain
+LangGraph
+MCP
+CrewAI
+AutoGen
+Backend
+Python
+FastAPI
+REST APIs
+Docker
+Vector Databases
+Pinecone
+ChromaDB
+FAISS
 
-#### 🔐 What I work on
+Cloud & Dev Tools
+Git
+GitHub Actions
+Azure AI
+AWS
+PostgreSQL
 
-- **Application & Product Security** — secure SDLC, threat modeling (STRIDE), secure code review
-- **DevSecOps** — SAST / DAST / SCA in CI/CD, custom Semgrep rules, automated scanning
-- **AI / LLM Security** — prompt injection, insecure output handling, OWASP LLM Top 10
-- **API Security** — OWASP API Top 10, authn/authz, rate limiting, schema validation
+🌱 Currently Exploring
+Advanced Agentic AI
+Multi-Agent Architectures
+AI Memory Systems
+AI Evaluation Frameworks
+AI Infrastructure
+AI Observability
 
-#### 📊 Recent impact
+📂 Featured Projects
+Enterprise AI Assistant
+Multi-Agent Research System
+RAG Knowledge Platform
+AI Workflow Automation
+AI Document Intelligence
+AI Customer Support Agent
+AI Coding Assistant
+Enterprise MCP Server
 
-- Secured **50+ APIs** — eliminated OWASP API Top 10 issues in 80% of services reviewed
-- Led **30+ threat modeling workshops** — 60% reduction in identified threats pre-deployment
-- Integrated **SAST/DAST into 10 CI/CD pipelines** — 40% faster vulnerability remediation
-- Authored **custom Semgrep rules** — 50% drop in recurring security issues
-- Hardened **5 AI/LLM products** against prompt injection and OWASP LLM Top 10 risks
+🤝 Let's Connect
+LinkedIn: linkedin.com/in/sayeribiswas96
+Email: sayeri.techsec@gmail.com
 
-#### 🛠️ Toolbox
-
-`Semgrep` · `Burp Suite` · `OWASP ZAP` · `SonarQube` · `Trivy` · `STRIDE` · `GitHub Actions` · `Python` · `Docker`
-
-> *Edit this list to match what you actually use day-to-day.*
-
-#### 📫 Connect
-
-- LinkedIn → [sayeribiswas96](https://www.linkedin.com/in/sayeribiswas96)
-- Email → sayeri.techsec@gmail.com
-
----
-
-*Open to **Senior Application Security / Product Security Engineer** roles at AI-native and SaaS companies.*
+Building AI systems that don't just generate responses, they reason, act, and solve real-world problems.
