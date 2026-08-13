@@ -1,20 +1,72 @@
-Hi, I'm Sayeri 👋
-AI Engineer | Generative AI | Agentic AI | Building Intelligent AI Systems
-I build production-ready AI applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
-My focus is on designing AI systems that can reason, retrieve knowledge, use tools, and automate complex workflows.
+# Hi, I'm Sayeri 👋
 
-🚀 What I'm Building
-🤖 AI Agents
-🧠 Agentic AI Systems
-✨ Generative AI Applications
-📚 Retrieval-Augmented Generation (RAG)
-🔄 Multi-Agent Workflows
-🔗 Model Context Protocol (MCP)
-💬 Conversational AI
-⚡ AI Workflow Automation
-🧩 LLM Integrations
-🐍 Python-based AI Services
+### Generative AI Engineer | Agentic AI | RAG | Enterprise AI
 
+I build practical AI systems using Large Language Models, Retrieval-Augmented Generation, agentic workflows, and enterprise APIs.
+
+I have nearly 5 years of enterprise technology experience, with a focus on combining AI with real-world business workflows, structured data, APIs, and automation.
+
+## 🔭 What I'm Building
+
+- 🤖 LLM-powered applications
+- 🧠 Agentic AI workflows
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧩 Context engineering and knowledge retrieval
+- 🛠️ Tool and function calling
+- 🔗 AI applications integrated with APIs and enterprise systems
+- 📊 AI evaluation, guardrails, and observability
+- ⚙️ Python-based AI services
+
+## 🧰 Tech Stack
+
+### AI & LLM
+Python • LLMs • Generative AI • RAG • Agentic AI
+• LangGraph • LangChain • Tool Calling • Function Calling
+
+### Backend
+Python • FastAPI • REST APIs • SQL • Pydantic
+
+### AI Infrastructure
+Vector Databases • Embeddings • Semantic Search
+• Docker • Git • GitHub
+
+### Enterprise
+Enterprise AI • Workflow Automation • API Integration
+• IBM ITX/WTX • Healthcare EDI • B2B Integration
+
+## 🚀 Currently Exploring
+
+- Advanced RAG
+- Context Engineering
+- Agent architectures
+- AI memory
+- Agent evaluation
+- AI security
+- Production GenAI engineering
+- LLMOps and observability
+
+## 📌 Featured Work
+
+Public repositories will showcase independent implementations of:
+
+- RAG systems
+- Agentic AI workflows
+- Enterprise AI automation
+- LLM-powered API services
+
+> Professional enterprise AI work is kept private due to confidentiality and intellectual-property restrictions.
+
+## 🤝 Connect
+
+LinkedIn: [linkedin.com/in/sayeribiswas96](https://linkedin.com/in/sayeribiswas96)
+
+Email: sayeri.techsec@gmail.com
+
+---
+
+Building AI systems that don't just generate responses,
+but retrieve knowledge, reason over context, use tools,
+and solve real-world problems.
 🛠 Tech Stack
 AI & LLMs
 OpenAI
