@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sayerisec.tech/sitemap.xml
