@@ -1,124 +1,111 @@
-# Hi, I'm Sayeri 👋
+# Sayeri Biswas
 
-### Generative AI Engineer | Agentic AI | RAG | Enterprise AI
+### Agentic AI Engineer | Multi-Agent Systems | LangGraph | LangChain | MCP | RAG
 
-I build practical AI systems using Large Language Models, Retrieval-Augmented Generation, agentic workflows, and enterprise APIs.
+I build enterprise AI applications and agentic workflows focused on multi-agent orchestration, LLM applications, MCP-based tool integration, RAG, evaluation, observability, and AI security.
 
-I have nearly 5 years of enterprise technology experience, with a focus on combining AI with real-world business workflows, structured data, APIs, and automation.
+## What I Work With
 
-## 🔭 What I'm Building
+- 🤖 Agentic AI & Multi-Agent Systems
+- 🔗 LangGraph & LangChain
+- 🔌 Model Context Protocol (MCP)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🐍 Python & FastAPI
+- ☁️ Microsoft Azure & Azure OpenAI
+- ☸️ Kubernetes & Docker
+- 📊 AI/LLM Evaluation & Observability
+- 🔐 AI Security & Guardrails
 
-- 🤖 LLM-powered applications
-- 🧠 Agentic AI workflows
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧩 Context engineering and knowledge retrieval
-- 🛠️ Tool and function calling
-- 🔗 AI applications integrated with APIs and enterprise systems
-- 📊 AI evaluation, guardrails, and observability
-- ⚙️ Python-based AI services
+## Core Areas
 
-## 🧰 Tech Stack
+### Agentic AI
+- Multi-agent orchestration
+- Agent state management
+- Conditional routing
+- Sequential and parallel workflows
+- Planning and replanning
+- Tool and function calling
+- Agent loops and failure recovery
+- Human-in-the-loop controls
 
-### AI & LLM
-Python • LLMs • Generative AI • RAG • Agentic AI
-• LangGraph • LangChain • Tool Calling • Function Calling
+### MCP
+- MCP servers and clients
+- Custom MCP tools
+- Tool integration
+- Tool discovery
+- Tool permissions and authorization
+- Enterprise system integration
 
-### Backend
-Python • FastAPI • REST APIs • SQL • Pydantic
+### RAG
+- Document processing and chunking
+- Embeddings
+- Vector search
+- Semantic and hybrid retrieval
+- Metadata filtering
+- Reranking
+- Query transformation
+- Contextual grounding
+- Retrieval evaluation
 
-### AI Infrastructure
-Vector Databases • Embeddings • Semantic Search
-• Docker • Git • GitHub
+### AI Engineering
+- LLM applications
+- Structured outputs
+- Prompt engineering
+- FastAPI services
+- Async Python
+- REST APIs
+- Input validation
+- Exception handling
+- Retries and timeouts
 
-### Enterprise
-Enterprise AI • Workflow Automation • API Integration
-• IBM ITX/WTX • Healthcare EDI • B2B Integration
-
-## 🚀 Currently Exploring
-
-- Advanced RAG
-- Context Engineering
-- Agent architectures
-- AI memory
+### Evaluation & Observability
+- AI/LLM evaluation
 - Agent evaluation
-- AI security
-- Production GenAI engineering
-- LLMOps and observability
+- Regression testing
+- Langfuse
+- OpenTelemetry
+- Tracing
+- Metrics
+- Structured logging
+- Tool-call observability
 
-## 📌 Featured Work
+### AI Security
+- Prompt injection
+- Indirect prompt injection
+- Jailbreak mitigation
+- Tool abuse controls
+- Agent authorization
+- Data leakage prevention
+- RAG security
+- RAG poisoning
+- AI guardrails
+- Sandboxed execution
+- OWASP LLM Security
+- MITRE ATLAS
 
-Public repositories will showcase independent implementations of:
+## Featured Work
 
-- RAG systems
-- Agentic AI workflows
-- Enterprise AI automation
-- LLM-powered API services
+### Enterprise EDI AI Assistant / Digital Brain
 
-> Professional enterprise AI work is kept private due to confidentiality and intellectual-property restrictions.
+An enterprise AI assistant focused on EDI workflows and enterprise knowledge retrieval, built using LangChain, LangGraph, MCP, RAG, and multi-agent orchestration.
 
-## 🤝 Connect
+The system includes agent state management, routing, planning/replanning, tool integration, human-in-the-loop controls, RAG pipelines, evaluation, observability, and AI security controls.
 
-LinkedIn: [linkedin.com/in/sayeribiswas96](https://linkedin.com/in/sayeribiswas96)
+LLM-based classification, extraction, summarization, and workflow automation reduced manual effort by 76%.
 
-Email: sayeri.techsec@gmail.com
+## Technology Stack
 
----
-
-Building AI systems that don't just generate responses,
-but retrieve knowledge, reason over context, use tools,
-and solve real-world problems.
-🛠 Tech Stack
-AI & LLMs
-OpenAI
-Claude
-Gemini
-Llama
-Mistral
-Hugging Face
-
-AI Frameworks
+```text
+Python
+FastAPI
 LangChain
 LangGraph
 MCP
-CrewAI
-AutoGen
-Backend
-Python
-FastAPI
-REST APIs
+RAG
+Azure OpenAI
+Azure AI Search
+Microsoft Azure
+Kubernetes
 Docker
-Vector Databases
-Pinecone
-ChromaDB
-FAISS
-
-Cloud & Dev Tools
-Git
-GitHub Actions
-Azure AI
-AWS
-PostgreSQL
-
-🌱 Currently Exploring
-Advanced Agentic AI
-Multi-Agent Architectures
-AI Memory Systems
-AI Evaluation Frameworks
-AI Infrastructure
-AI Observability
-
-📂 Featured Projects
-Enterprise AI Assistant
-Multi-Agent Research System
-RAG Knowledge Platform
-AI Workflow Automation
-AI Document Intelligence
-AI Customer Support Agent
-AI Coding Assistant
-Enterprise MCP Server
-
-🤝 Let's Connect
-LinkedIn: linkedin.com/in/sayeribiswas96
-Email: sayeri.techsec@gmail.com
-
-Building AI systems that don't just generate responses, they reason, act, and solve real-world problems.
+Langfuse
+OpenTelemetry
